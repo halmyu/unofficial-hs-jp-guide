@@ -1,0 +1,22 @@
+Act5 Act2-028 概要（原作と並読向け）
+
+範囲: Act 5 Act 2, 3034([https://homestuck.com/004934](https://homestuck.com/004934))-3042([https://homestuck.com/004942](https://homestuck.com/004942))
+
+1) 概要
+- ジェイドの銃声を聞いて[目を覚ましたデイブ](https://homestuck.com/story/3034)。眠っている間に見た外縁の神々から[助けを求める声を聞いた](https://homestuck.com/story/3037)。ローズ曰く、神々は虐殺に遭っているという。
+- デイブは神々の声を聞き、[グリーン・サンへの道](https://homestuck.com/story/3041)を開く必要がある。宇宙全体の2倍ほどの大きさのあるグリーン・サンはファーストガーディアンの力の源で、ベクレルやベック・ノワールに関わっている。
+- 戦場の[腫瘍](https://homestuck.com/story/3042)は裁きが終わったときにセッションを消し去る巨大な爆弾である。
+
+2) 注記（用語・補足）
+
+3) 関連
+- 前回: [[ACT5ACT2-027]]
+- 次回: [[ACT5ACT2-029]]
+- 参照: [用語集](https://docs.google.com/spreadsheets/d/1z2qKKXXzfgUHkKpf-rCUoB0x_GQOHh6A2BJq5dRTJYc/edit?usp=sharing)
+
+4) 更新履歴
+- 2026-04-13: 初版公開
+
+5) 免責・権利
+本記事は非公式の補助資料です。引用は最小限・出典明記。原著作権は公式に帰属。二次配布・商用利用不可。
+This is an unofficial, non-commercial fan commentary site. Homestuck and related materials are © their respective rights holders. Quotes used under Japanese copyright law for purposes of criticism and commentary. If you are a rights holder and have concerns, contact: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfqmZhbBWW7Hx-h8mhLvOnCMJcXeMRgfo_O0xEc1li3qL9PXQ/viewform?usp=preview)／[Github Issue](https://github.com/halmyu/unofficial-hs-jp-guide/issues).
